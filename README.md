@@ -2,7 +2,7 @@
 
 
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/d36e2428-be50-49fd-b607-38af9abacae6"  />
+  <img align="right" height="300" src="https://github.com/user-attachments/assets/d5f03185-a15b-4cdb-9486-d38f55c3d96b"  />
 
 
 
@@ -33,7 +33,6 @@
   <a href="1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
     <img src="https://www.svgrepo.com/show/452114/tiktok.svg" width="36" height="36" alt="TikTok" />
   </a>
-  <img align="right" height="300" src="https://github.com/user-attachments/assets/d5f03185-a15b-4cdb-9486-d38f55c3d96b"  />
 
 </p>
 
