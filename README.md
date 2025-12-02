@@ -1,4 +1,4 @@
-# Hi, I'm NorvinCodes  14 y.o Dev from UK👋kljjihjkbkjhb
+# Hi, I'm NorvinCodes  14 y.o Dev from UK👋
 
 
 
