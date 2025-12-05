@@ -9,21 +9,21 @@
 ###
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NorvinCodes&color=F1C40F) 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=samodinn&color=F1C40F) 
 
 ###
 
 <h3>Front-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,scss)](https://github.com/NorvinCodes)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,scss)](https://github.com/samodinn)
 
 <h3>Other stuff</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux,arch)](https://github.com/NorvinCodes)
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,arch)](https://github.com/samodinn)
 
 <h3>Backend / Learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go)](https://github.com/NorvinCodes)
+[![My Skills](https://skillicons.dev/icons?i=nothin)](https://github.com/samodinn)
 
 <h3> My Socials </h3>
 <p align="left">
