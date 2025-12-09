@@ -19,7 +19,12 @@
 
 <h3>Other stuff</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux, fedora)](https://github.com/samodinn11)
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,arch)](https://github.com/samodinn11)
+
+
+
+
+
 
 <h3>Backend / Learning </h3>
 
